@@ -1,1 +1,1 @@
-Simple website for sharing information about World of Warcraft Classic Era.
+Information about World of Warcraft Classic Era.
